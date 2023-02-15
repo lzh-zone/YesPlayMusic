@@ -2,7 +2,7 @@
   "rewrites": [
     {
       "source": "/api/:match*",
-      "destination": "https://wy.zihao.ml/:match*"
+      "destination": "http://cloud-music.pl-fe.cn/:match*"
     }
   ]
 }
